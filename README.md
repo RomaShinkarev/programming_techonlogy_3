@@ -7,7 +7,7 @@
 2) Ресторан (красным)
 3) Курьер (зеленым)
 
-![image](https://github.com/RomaShinkarev/programming_techonlogy_3/assets/85445712/3f258360-aeef-4743-83c4-4839197e52ca)
+![image](https://github.com/RomaShinkarev/programming_techonlogy_3/assets/85445712/0e1dbe56-75d6-4f59-986c-87cdfac6826e)
 
 На диаграмме изображены сценарии оформления заказа, изменения статуса заказа  и его оплаты.
 
