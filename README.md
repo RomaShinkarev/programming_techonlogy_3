@@ -19,10 +19,19 @@
 
 ## Диаграмма деятельности
 
+Ниже представленна диаграмма деятельности, созданная на основе диаграммы состояний
+
 ![image](https://github.com/RomaShinkarev/programming_techonlogy_3/assets/85445712/024f5fe8-9c3b-4de7-a36c-8fdd56eabdba)
 
 ## Диаграмма классов
 
 ![image](https://github.com/RomaShinkarev/programming_techonlogy_3/assets/85445712/9932b3c7-adc7-422a-9ef2-b77aea716c73)
+
+## Диаграмма последовательности
+
+Ниже представлена диаграмма последовательности, созданная на основе диаграммы классов приложения
+
+![image](https://github.com/RomaShinkarev/programming_techonlogy_3/assets/85445712/42f690b4-8688-409a-b463-6c0478ebce49)
+
 
 Работу выполнил: Шинкарев Роман, 233
